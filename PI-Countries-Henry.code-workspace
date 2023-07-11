@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "PI-Countries-Henry",
+			"path": "."
+		},
+		{
+			"name": "PI Paola",
+			"path": "../../PI Paola"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
