@@ -1,0 +1,75 @@
+.container {
+    
+    margin-top: 0;
+    display: flex;
+    margin-top: 13px;
+}
+
+
+.buttonBack {
+   
+    float: right;
+    padding: 12px;
+    margin-top: 3px;
+    margin-right: 10px;
+    background: #e6ffff;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    font-size: 25px;
+    
+}
+
+.buttonNext {
+   
+    float: right;
+    padding: 12px;
+    margin-top: 3px;
+    margin-right: 10px;
+    background: #e6ffff;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+
+.input {
+    background-color: white;
+    color: rgb(158, 19, 223);
+font-size: 15px;
+    border-radius: 2px;
+    border: 2px solid white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+
+}
+
+
+.ocultarBoton{
+    padding: 0.5rem;
+    width: 1rem;
+    height: 1rem;
+    margin-right: 0.5rem;
+    /* background-color: red; */
+    display: flex;
+    border-radius: 1rem;
+}
+
+.buttonMax {
+    float: right;
+    padding: 12px;
+    margin-top: 3px;
+    margin-right: 10px;
+    background: #e6ffff;
+    font-size: 15px;
+    border: none;
+    cursor: pointer;
+    font-size: 25px;
+}
+
+.div{
+    width: 5px;
+    
+}

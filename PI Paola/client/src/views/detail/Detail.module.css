@@ -1,0 +1,51 @@
+.background {
+    background-image: url("/Users/paolavargas/Documents/GitHub/PI Paola/client/src/views/detail/post instagram vacaciones collage celeste.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    min-height: 100vh;
+  }
+
+
+.container {
+    width: 550px;
+    height: 550px;
+    background-color: grey;
+    margin-top: 30px;
+    margin-left: 370px;
+    font-family: "Tahoma", sans-serif;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+
+    
+}
+
+.img {
+    width: 280px;
+    height: 180px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgb(10, 10, 10);
+    margin-bottom: 30px;
+    margin-top: 30px;
+    position: relative;
+    left: 5px;
+    
+}
+
+.buttonVolver {
+    background-color: grey;
+    margin-left: 10px;
+    border-radius: 10px;
+    border: solid white 1px;
+    height: 4vh;
+    width: 6vw;
+    font-family: "Tahoma", sans-serif;
+    position: relative;
+    left: 1220px;
+    margin-top: 5px;
+    color: rgb(250, 247, 247);
+    font-weight: bold;
+    
+}

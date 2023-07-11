@@ -1,0 +1,37 @@
+.container{
+  background-color: black;
+  height: 6vh;
+  justify-content: center;
+  display: flex;
+  position: relative;
+}
+
+
+.container button {
+  float: left;
+  position: absolute;
+
+}
+
+.buttonCrear {
+  left: 50px;
+  margin-top: 5px;
+  height: 4vh;
+  width: 10vw;
+  border-radius: 15px;
+  border: solid white;
+  font-size: 25px;
+  font-family: "Tahoma", sans-serif;
+  transition: .5s, color .10s;
+  -webkit-transition: .5s, color .10s;
+  -moz-transition: .5s, color .10s;
+  
+}
+           
+.buttonCrear:hover{
+  box-shadow: 0 7px 7px 0 #000000d5,0 8px 8px 0 #000000;
+  transform: translate(0px,5px);
+  -webkit-transform: translate(0px,5px);
+  -moz-transform:translate(0px,5px);
+}
+            

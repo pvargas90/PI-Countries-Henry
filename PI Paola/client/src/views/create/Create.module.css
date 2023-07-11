@@ -1,0 +1,154 @@
+.background {
+  background-image: url("/Users/paolavargas/Documents/GitHub/PI Paola/client/src/views/create/Post de Instagram de promocion turística de invierno blanco.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  min-height: 100vh;
+}
+
+.container {
+  width: 550px;
+  height: 550px;
+  background-color: transparent;
+  margin-top: 30px;
+  margin-left: 370px;
+  font-family: "Tahoma", sans-serif;
+  border-radius: 20px;
+  text-align: center;
+  
+}
+
+.buttonVolver {
+  background-color: red;
+  border-radius: 10px;
+  border: solid white 1px;
+  height: 4vh;
+  width: 6vw;
+  font-family: "Tahoma", sans-serif;
+  font-weight: bold;
+  position: relative;
+  left: 1220px;
+  margin-top: 5px;
+  color: white;
+  
+}
+
+.nombreContainer input {
+
+  border-radius: 10px;                        
+  width: 200px;
+  height: 30px;
+  margin-top: 60px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+ 
+}
+
+.textoName{
+
+  color:white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: -20px;
+
+}
+
+.dificultad input {
+  border-radius: 10px;
+  width: 200px;
+  height: 30px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.textoDificultad {
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: -30px;
+}
+
+
+
+.duracion input{
+  border-radius: 10px;
+  width: 200px;
+  height: 30px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+.textoDuracion {
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: -30px;
+}
+
+
+.temporada input {
+  border-radius: 10px;
+  width: 200px;
+  height: 30px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.textoTemporada {
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: -50px;
+
+}
+
+.paises  {
+  background-color: red;
+  color: white;
+  border-radius: 10px;
+  width: 250px;
+  height: 35px;
+  border: solid 1px white;
+  margin-left: 20px;
+  margin-bottom: 30px;
+  outline: none;
+  margin-top: 20px;
+  
+}
+.paises:focus {
+  outline:none
+}
+.optionsForm {
+  color: black;
+  background-color: rgb(248, 248, 248);
+  
+}
+
+
+.buttonCrear {
+  border: solid white 1px;
+  border-radius: 10px;
+  height: 50px;
+  background-color: red;
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 15px;
+  justify-content: center;
+  width: 100px;
+  box-shadow: 0 0 15px rgb(252, 250, 249);
+  color: white;
+
+}
+
+.contenedorColumnas{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.paisContainer {
+  display: flex;
+  margin-left: 35px;
+  font-weight: bold;
+  color: white;
+}
+

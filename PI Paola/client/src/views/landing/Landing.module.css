@@ -1,0 +1,44 @@
+:root {
+    background-image: url("/Users/paolavargas/Documents/GitHub/PI Paola/client/src/views/landing/Portada-Landing.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.buttonContainer {
+    float: center;
+    padding: 6px;
+    margin-top: 95px;
+    margin-left: 700px;
+    color:transparent;
+    background-color: transparent;
+    font-size: 35px;
+    flex-wrap: nowrap;
+    cursor: pointer;
+    border-radius: 20px;
+    width: 150px;
+    border: 2px solid white;
+  }
+              
+              
+
+.buttonText {
+    color:transparent;
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    
+}
+
+
+.title{
+    display: flex;
+    justify-content: right;
+    align-items: 200px;
+    color: rgb(245, 226, 226);
+    padding: 100px;
+    height: 200px;
+    border-radius: 5px;
+    font-family: 'Open Sans', sans-serif;
+};
