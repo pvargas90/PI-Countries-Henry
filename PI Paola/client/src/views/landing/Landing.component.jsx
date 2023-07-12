@@ -13,7 +13,7 @@ function Landing () {
           </div>
         
         <button className={styles.buttonContainer}>
-          <NavLink to="/home" className={styles.buttonText}>SI</NavLink>
+          <NavLink to="/home" className={styles.buttonText}>Vamos!</NavLink>
         </button>
         </div>
       </nav>

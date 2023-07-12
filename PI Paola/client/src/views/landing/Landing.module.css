@@ -1,5 +1,5 @@
 :root {
-    background-image: url("/Users/paolavargas/Documents/GitHub/PI Paola/client/src/views/landing/Portada-Landing.jpg");
+    background-image: url("/Users/paolavargas/Documents/GitHub/PI-Pokemon-main/PI-Countries-Henry/PI Paola/client/src/views/landing/Portada-Landing.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -10,8 +10,8 @@
 .buttonContainer {
     float: center;
     padding: 6px;
-    margin-top: 95px;
-    margin-left: 700px;
+    margin-top: 400px;
+    margin-left: 1550px;
     color:transparent;
     background-color: transparent;
     font-size: 35px;
@@ -19,13 +19,13 @@
     cursor: pointer;
     border-radius: 20px;
     width: 150px;
-    border: 2px solid white;
+    border: 3px solid white;
   }
               
               
 
 .buttonText {
-    color:transparent;
+    color:white;
     text-decoration: none;
     font-family: 'Open Sans', sans-serif;
     
